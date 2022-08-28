@@ -1,6 +1,6 @@
 # House Marketplace React App
 
-## Add REACT_APP_GEOCODE_API_KEY in your .env file
+### Add REACT_APP_GEOCODE_API_KEY in your .env file
 
 In the project directory, you can run:
 
